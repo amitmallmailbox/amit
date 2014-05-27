@@ -11,7 +11,6 @@ public class Test {
 	}
 	
 	class Point {
-		int x;
 		int j;
 	}
 
