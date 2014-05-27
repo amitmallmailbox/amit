@@ -12,6 +12,7 @@ public class Test {
 	
 	class Point {
 		int j;
+		int lkljj;
 	}
 
 }
