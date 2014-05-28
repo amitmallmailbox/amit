@@ -13,6 +13,7 @@ public class Test {
 	class Point {
 		int j;
 		int lkljj;
+		//changed from github
 	}
 
 }
